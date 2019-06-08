@@ -1,0 +1,23 @@
+{
+  "name": "express-http",
+  "version": "1.0.0",
+  "description": "node practice",
+  "main": "expressServer.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UkiWoDao/node-refresher.git"
+  },
+  "author": "UkiWoDao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UkiWoDao/node-refresher/issues"
+  },
+  "homepage": "https://github.com/UkiWoDao/node-refresher#readme"
+}
